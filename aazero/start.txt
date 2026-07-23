@@ -1,0 +1,19 @@
+1. track patience, patience muscle
+2. $track reject, reject practice
+3. $fail
+4. $track fasting
+5. $track blocked
+6. $holding hand
+7. delegate
+8. autoamte
+9. discard task after review  
+10. $urgent task list
+11. brain dump thoughhts, notes, even twitter like both views,  export to text or json too 
+12. order list (small order, pick 5 to 10 max , else will be difficult to pick or order , another list unorder , pick 5 or 10 )
+13. $ruby helper  generate folder, files - generate.md. readme.md, index.php /Users/ikbhal/Desktop/php/helpers/rubyhelper cli, website, curent folder path  /Users/ikbhal/Desktop/php
+    php websiet choose instead
+
+14. ~wins
+15. $ template fodlder php website  (folder, generate.md, index.php, readme.md, port)
+
+16 single file slqite engine php go ruby js 
