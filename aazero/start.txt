@@ -28,3 +28,7 @@
 25. stack 
 26. tree dynalist 
 27.register app, embed apps , app switcher 
+28. 1000 cards word, 5words hover, notes tap
+29. 1000 allah zikir grid , car move on each tap space or click any where 
+reset, track allah zikir, celebraet each square have number, allah nubmer, even check when left 
+reset all , curent count, whre were are 
